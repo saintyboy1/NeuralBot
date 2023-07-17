@@ -1,4 +1,5 @@
-  {
+[
+{
     "instruction": "Rewrite the following sentence to be more concise without changing its meaning.",
     "input": "The reason the house is so cold all the time is primarily due to the fact that the insulation is quite poor.",
     "response": "The house is cold mainly because of poor insulation."
@@ -3072,4 +3073,5 @@
     "instruction": "Determine the narrator's point of view in the following excerpt.",
     "input": "As I stared out the window, I couldn't help but feel a sense of longing deep within me. The leaves on the trees danced in the wind, and the children played in the street, their laughter echoing through the air. I wished I could join them, but I knew my duties were waiting for me inside.",
     "response": "The narrator's point of view in this excerpt is first-person."
-  },
+  }
+]
