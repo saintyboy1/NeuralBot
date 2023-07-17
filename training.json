@@ -1,0 +1,26 @@
+[
+  {
+    "input": "hello",
+    "response": "Hello! How can I assist you?"
+  },
+  {
+    "input": "hi",
+    "response": "Hi there! How may I help you today?"
+  },
+  {
+    "input": "hey",
+    "response": "Hey! What can I do for you?"
+  },
+  {
+    "input": "good morning",
+    "response": "Good morning! How can I be of service?"
+  },
+  {
+    "input": "good afternoon",
+    "response": "Good afternoon! How can I assist you?"
+  },
+  {
+    "input": "good evening",
+    "response": "Good evening! How may I help you today?"
+  }
+]
