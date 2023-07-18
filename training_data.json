@@ -1,0 +1,26 @@
+[
+  {
+    "input": "Hi",
+    "output": "Hello! How can I assist you?"
+  },
+  {
+    "input": "How are you?",
+    "output": "I'm good, thank you! How about you?"
+  },
+  {
+    "input": "What's your name?",
+    "output": "I'm ChatBot. Nice to meet you!"
+  },
+  {
+    "input": "Tell me a joke",
+    "output": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+  },
+  {
+    "input": "Help",
+    "output": "Of course! How can I help you?"
+  },
+  {
+    "input": "Goodbye",
+    "output": "Goodbye! Have a great day!"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "name": "videoplayer",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000e\u0000u\u0000r\u0000a\u0000l\u0000B\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saintyboy1/NeuralBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saintyboy1/NeuralBot/issues"
+  },
+  "homepage": "https://github.com/saintyboy1/NeuralBot#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.8.0",
+    "@tensorflow/tfjs-node": "^4.8.0",
+    "fs": "^0.0.1-security",
+    "natural": "^6.5.0"
+  }
+}
