@@ -26,52 +26,52 @@
   },
     {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Hi",
     "response": "Hello, how are you?"
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Good Morning",
     "response": "Good morning! How is your day going?"
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Greetings",
     "response": "Greetings, esteemed guests! Welcome to our event."
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Hello",
     "response": "Hey there! I hope you're having a fantastic day."
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Hope you are doing well",
     "response": "Warm wishes and greetings to you!"
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Salutations",
     "response": "Salutations! How may I assist you today?"
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Hi friend",
     "response": "Hello, my friend. It's a pleasure to see you."
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Good Afternoon",
     "response": "Good afternoon! I hope you're having a great day."
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "I hope you are doing well",
     "response": "Greetings and blessings to you and your loved ones."
   },
   {
     "instruction": "Write a greeting.",
-    "input": "",
+    "input": "Hi could you help?",
     "response": "Hi there! How can I assist you today?"
   }
 ]
