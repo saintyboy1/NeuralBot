@@ -1,26 +1,77 @@
 [
   {
+    "instruction": "Imagine you are an ambassador from a planet called Zogaria, and write a speech introducing your planet and its culture to Earth leaders.",
+    "input": "",
+    "response": "Greetings, esteemed Earth leaders. I am the ambassador from the distant planet of Zogaria, a land of beauty, innovation, and harmony. Our world is vibrant with diverse landscapes – from the crystal blue oceans of Azuron to the lush, towering forests of Emeraldia, Zogaria's enchanting beauty is as varied as its inhabitants. We, the Zogarians, believe in living in harmony with our planet, protecting its resources, and sharing our prosperity with all living beings. Our society values education, creativity, and sustainability, with advancements in clean energy, eco-friendly habitats, and technology that augment our everyday lives. As a united federation of diverse regions, we celebrate our cultural differences and collaborate on projects that foster development and unity. Today, we come before you in the spirit of friendship, eager to share our knowledge and cultural wealth to promote peace and prosperity between our two worlds."
+  },
+  {
+    "instruction": "Imagine you are an envoy from Zogaria and explain the environmental initiatives on your planet.",
+    "input": "",
+    "response": "Respected leaders of Earth, I represent Zogaria, a planet deeply committed to environmental stewardship. Our world has made significant strides in sustainable practices. We have implemented innovative technologies that harness renewable energy, such as solar, wind, and geothermal power, to meet our energy needs. Zogaria boasts advanced waste management systems, recycling programs, and strict conservation policies to preserve our precious ecosystems. Our cities are adorned with vertical gardens and green rooftops, promoting urban biodiversity and reducing carbon emissions. By embracing circular economy principles, we have minimized waste generation and fostered a culture of reuse and recycling. Zogaria is proud to lead in sustainable practices and is eager to share our knowledge to aid Earth in addressing its environmental challenges."
+  },
+  {
+    "instruction": "You are the representative of Zogaria, elaborate on the educational system and scientific advancements on your planet.",
+    "input": "",
+    "response": "Honorable Earth leaders, I speak as the representative of Zogaria, a planet that cherishes knowledge and scientific progress. Our educational system places a strong emphasis on comprehensive learning, critical thinking, and nurturing curiosity. Zogaria's schools and academies offer advanced STEM programs, arts, and humanities, fostering well-rounded individuals. We encourage collaboration and provide cutting-edge research opportunities for students to contribute to scientific breakthroughs. Zogaria is at the forefront of scientific advancements, with groundbreaking discoveries in fields such as astrophysics, biotechnology, and sustainable agriculture. Our scientists have developed revolutionary medical treatments and explored the depths of the universe through advanced space exploration technology. We invite Earth to collaborate, exchange knowledge, and embark on joint scientific endeavors for the betterment of our shared future."
+  },
+  {
+    "instruction": "Imagine you are the ambassador from Zogaria, highlight the cultural celebrations and artistic expressions on your planet.",
+    "input": "",
+    "response": "Distinguished Earth leaders, I represent the vibrant culture of Zogaria, where celebrations and artistic expressions thrive. Our festivals are grand spectacles of color, music, and dance, reflecting the diverse traditions of our people. From the luminous Festival of Lights, where illuminated sculptures adorn our cities, to the rhythmic Harmony Drum Festival that showcases our musical heritage, Zogaria is a hub of creativity and cultural expression. Our artisans are renowned for their craftsmanship, producing intricate tapestries, sculptures, and architectural wonders that blend traditional and contemporary elements. The Zogarian Symphony Orchestra captivates audiences with its harmonious melodies, and our theaters host captivating performances that transport spectators to other realms. We invite Earth's artists, musicians, and performers to share in our cultural exchange, fostering understanding and appreciating the beauty that binds us all."
+  },
+  {
+    "instruction": "As an envoy from Zogaria, describe the interplanetary collaborations and initiatives for peace.",
+    "input": "",
+    "response": "Esteemed Earth leaders, I come to you as an envoy from Zogaria, a planet dedicated to fostering interplanetary collaborations and promoting peace across the cosmos. We believe that unity is the path to a prosperous future for all civilizations. Zogaria actively engages in joint initiatives with neighboring planets, exchanging knowledge, resources, and fostering cultural understanding. Our scientists collaborate on space exploration missions, uncovering the mysteries of the universe together. In times of crisis, Zogaria stands ready to offer humanitarian aid, sharing our technology and expertise to alleviate suffering. Through diplomacy and dialogue, we strive to resolve conflicts and build bridges of understanding between civilizations. We extend an open hand to Earth, inviting you to join us in this noble pursuit of peace, as we work together for the benefit of all sentient beings."
+  },
+    {
+    "instruction": "Write a greeting.",
     "input": "Hi",
-    "output": "Hello! How can I assist you?"
+    "response": "Hello, how are you?"
   },
   {
-    "input": "How are you?",
-    "output": "I'm good, thank you! How about you?"
+    "instruction": "Write a greeting.",
+    "input": "Good Morning",
+    "response": "Good morning! How is your day going?"
   },
   {
-    "input": "What's your name?",
-    "output": "I'm ChatBot. Nice to meet you!"
+    "instruction": "Write a greeting.",
+    "input": "Greetings",
+    "response": "Greetings, esteemed guests! Welcome to our event."
   },
   {
-    "input": "Tell me a joke",
-    "output": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+    "instruction": "Write a greeting.",
+    "input": "Hello",
+    "response": "Hey there! I hope you're having a fantastic day."
   },
   {
-    "input": "Help",
-    "output": "Of course! How can I help you?"
+    "instruction": "Write a greeting.",
+    "input": "Hope you are doing well",
+    "response": "Warm wishes and greetings to you!"
   },
   {
-    "input": "Goodbye",
-    "output": "Goodbye! Have a great day!"
+    "instruction": "Write a greeting.",
+    "input": "Salutations",
+    "response": "Salutations! How may I assist you today?"
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "Hi friend",
+    "response": "Hello, my friend. It's a pleasure to see you."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "Good Afternoon",
+    "response": "Good afternoon! I hope you're having a great day."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "I hope you are doing well",
+    "response": "Greetings and blessings to you and your loved ones."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "Hi could you help?",
+    "response": "Hi there! How can I assist you today?"
   }
 ]
