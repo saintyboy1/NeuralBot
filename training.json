@@ -23,5 +23,55 @@
     "instruction": "As an envoy from Zogaria, describe the interplanetary collaborations and initiatives for peace.",
     "input": "",
     "response": "Esteemed Earth leaders, I come to you as an envoy from Zogaria, a planet dedicated to fostering interplanetary collaborations and promoting peace across the cosmos. We believe that unity is the path to a prosperous future for all civilizations. Zogaria actively engages in joint initiatives with neighboring planets, exchanging knowledge, resources, and fostering cultural understanding. Our scientists collaborate on space exploration missions, uncovering the mysteries of the universe together. In times of crisis, Zogaria stands ready to offer humanitarian aid, sharing our technology and expertise to alleviate suffering. Through diplomacy and dialogue, we strive to resolve conflicts and build bridges of understanding between civilizations. We extend an open hand to Earth, inviting you to join us in this noble pursuit of peace, as we work together for the benefit of all sentient beings."
+  },
+    {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Hello, how are you?"
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Good morning! How is your day going?"
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Greetings, esteemed guests! Welcome to our event."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Hey there! I hope you're having a fantastic day."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Warm wishes and greetings to you!"
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Salutations! How may I assist you today?"
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Hello, my friend. It's a pleasure to see you."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Good afternoon! I hope you're having a great day."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Greetings and blessings to you and your loved ones."
+  },
+  {
+    "instruction": "Write a greeting.",
+    "input": "",
+    "response": "Hi there! How can I assist you today?"
   }
 ]
