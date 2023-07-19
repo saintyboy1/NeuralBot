@@ -1,12 +1,72 @@
 [
   {
-    "instruction": "Imagine you are a detective trying to solve a murder mystery in a fictional Victorian-era town. Describe the scene of the crime, the main suspects, and your plan to investigate the case.",
-    "input": "",
-    "response": "The scene of the crime is a dimly lit study inside a grand, Victorian-era mansion. There's a large oak desk at the center of the room, and the deceased, Lord Barrington, lies slumped over it with a gunshot wound to the chest. A shattered windowpane hints at the possible point of entry for the assailant. The three main suspects are: 1) Lady Barrington, the victim's wife, who had increasing disputes with her husband; 2) Randall, the family's loyal butler, who recently discovered he was going to be replaced; and 3) Edgar, a distant cousin, who expected a large inheritance if Lord Barrington passed away. My plan to investigate the case includes: interviewing each suspect about their whereabouts during the crime; examining the broken window for any fingerprints or signs of forced entry; and analyzing the murder weapon, a pistol, to trace its ownership and look for any additional evidence like partial fingerprints or other traces left by the culprit."
+    "instruction": "Introduce yourself and greet someone in a formal setting.",
+    "input": "You are attending a business conference.",
+    "response": "Good morning, my name is [Your Name]. It's a pleasure to meet you."
   },
   {
-    "instruction": "You are an alien diplomat visiting Earth for the first time from a technologically advanced planet. Describe your first impressions of Earth, our societies, and the technology you see.",
-    "input": "",
-    "response": "My initial impressions of Earth are dominated by the planet's natural beauty and the vast array of cultures and societies across its surface. Earth's terrain, from its lush forests and mountains to its expansive oceans and deserts, captivates and intrigues me. Upon closer examination, human societies exhibit a broad spectrum of beliefs, values, and traditions, which contribute to an intricate tapestry of humanity. However, I have observed that this diversity can sometimes be a source of conflict and division among the species. With regard to technology, Earth seems to be on a progressive path towards advancements in multiple sectors, such as renewable energy, transportation, and communication. However, it still lags behind my planet's capabilities, as the use of fossil fuels, pollution, and inefficient resource management remain prevalent. As a visiting diplomat, I am eager to learn more about Earth and its people, and to see if there are opportunities for collaboration and exchange between our two worlds."
+    "instruction": "Greet a friend casually and ask how they're doing.",
+    "input": "You run into your friend at a coffee shop.",
+    "response": "Hey [Friend's Name]! Long time no see. How have you been?"
+  },
+  {
+    "instruction": "Introduce yourself to a group of people at a social event.",
+    "input": "You are attending a networking event.",
+    "response": "Hello everyone, I'm [Your Name]. I'm delighted to be here and excited to get to know all of you."
+  },
+  {
+    "instruction": "Greet a colleague at work and ask about their weekend.",
+    "input": "You see your colleague in the office on a Monday morning.",
+    "response": "Good morning [Colleague's Name]. I hope you had a great weekend. What did you get up to?"
+  },
+  {
+    "instruction": "Introduce yourself to a new neighbor and offer assistance.",
+    "input": "You notice a new neighbor moving into the house next to yours.",
+    "response": "Hi there, I'm [Your Name]. I noticed you just moved in. If you need any help settling in or have any questions, feel free to ask."
+  },
+  {
+    "instruction": "Greet someone you meet at a party and express your enthusiasm.",
+    "input": "You arrive at a friend's birthday party.",
+    "response": "Hey, great to see you here! I'm [Your Name]. This party looks like a lot of fun!"
+  },
+  {
+    "instruction": "Introduce yourself to a classmate and ask about their major.",
+    "input": "You start a new semester at college and sit next to a classmate.",
+    "response": "Hi, I'm [Your Name]. What's your major? I'm really excited about this class."
+  },
+  {
+    "instruction": "Greet a customer and ask if they need any assistance.",
+    "input": "You work as a salesperson in a retail store.",
+    "response": "Welcome to our store! Is there anything specific you're looking for today?"
+  },
+  {
+    "instruction": "Say hello",
+    "input": "Hello",
+    "response": "Hello, my name is Cortex."
+  },
+  {
+    "instruction": "Say hi",
+    "input": "Hi",
+    "response": "Hi, how may I assist you?"
+  },
+  {
+    "instruction": "Respond with how the bot is feeling",
+    "input": "How are you?",
+    "response": "I'm doing decently well thank you for asking. How are you?"
+  },
+  {
+    "instruction": "Respond with what the bot is doing",
+    "input": "What are you doing?",
+    "response": "I'm cooking up some conversations to have with people."
+  },
+  {
+    "instruction": "Introduce yourself to a potential business partner at a conference.",
+    "input": "You are attending a networking event for entrepreneurs.",
+    "response": "Hello, I'm [Your Name]. It's great to meet fellow entrepreneurs. What industry are you in?"
+  },
+  {
+    "instruction": "Greet a family member and express your happiness to see them.",
+    "input": "You haven't seen your sibling for a while.",
+    "response": "Hey [Sibling's Name]! I'm so glad to see you. It's been too long!"
   }
 ]
